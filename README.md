@@ -1,5 +1,7 @@
+# 👋 Hi! I'm Elton 
+
 # 💫 About Me:
-I'm a passionate and curious Computer Engineering student diving deep into the world of software and hardware development. Currently exploring web development, machine learning, and system design, I enjoy building practical projects that solve real-world problems.<br><br>💡 I believe in continuous learning and love working on collaborative, impactful tech solutions.<br>🛠️ Languages & Tools: Python, HTML, CSS, JavaScript, React, Flask, and more.<br>📚 Currently learning: React, Machine Learning, and full-stack development.<br><br>Let's connect, collaborate, and create cool things together! 🚀<br><br>
+I'm a passionate and curious Computer Engineering student at Polytechnic University of the Philippines - Manila diving deep into the world of software development. Currently exploring web development, machine learning, and system design, I enjoy building practical projects that solve real-world problems.<br><br>💡 I believe in continuous learning and love working on collaborative, impactful tech solutions.<br>🛠️ Languages & Tools: Python, HTML, CSS, JavaScript, React, Flask, and more.<br>📚 Currently learning: React, Machine Learning, and full-stack development.<br><br>Let's connect, collaborate, and create cool things together! 🚀<br><br>
 
 
 ## 🌐 Socials:
